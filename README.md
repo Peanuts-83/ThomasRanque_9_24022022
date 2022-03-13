@@ -11,7 +11,7 @@ Il s'agit d'un SaaS RH qui fourni une fonctionnalité de gestion de notes de fra
 ### *Le projet comprend deux repositories :*
 
 &nbsp;
-## 1. Billed-app-FR-Back @ d50e58d
+## 1. Billed-app-FR-Back
 Le backend avec la base de donnée en SQLite3.
 
 &nbsp;
@@ -19,7 +19,7 @@ Le processus d'installation est fourni par le Readme.
 
 
 &nbsp;
-## 2. Billed-app-FR-Front @ 03a7a6c
+## 2. Billed-app-FR-Front
 L'application frontend. C'est ici que se trouvent les fichiers *UX/UI* qui doivent être testés.
 
 &nbsp;
