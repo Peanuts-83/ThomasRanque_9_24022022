@@ -1,26 +1,20 @@
-### ThomasRanque_9_24022022
+# P9: Debug & test HR SaaS / Billed website
 
-# Débuggez et testez un SaaS RH
-Il s'agit d'un SaaS RH qui fourni une fonctionnalité de gestion de notes de frais pour entreprise. Deux profils sont implémentés, "employé" et "administrateur", qui disposent chacun d'une entrée différentiée.
-
-&nbsp;
-**L'objectif de ce projet est la mise en place de tests unitaires et fonctionnels avec le framework Jest. Il est également demandé de corriger des bugs fonctionnels et de définir un plan de tests End-to-End.**
+* [BACK END - API](https://github.com/Peanuts-83/Billed-app-FR-Back.git)
+* [FRONT END  - APPLICATION & TESTS](https://github.com/Peanuts-83/Billed-app-FR-Front/)
 
 
-&nbsp;
-### *Le projet comprend deux repositories :*
+## Project's presentation
 
-&nbsp;
-## 1. Billed-app-FR-Back
-Le backend avec la base de donnée en SQLite3.
+After publishing cookbooks for several years, the company decided to embark on a new project: to create its own site of cooking recipes like Marmiton or 750g.
+Front-end application requires back-end API to run. Please refer each documentation for setup.
 
-&nbsp;
-Le processus d'installation est fourni par le Readme.
+## Process build in 3 steps:
 
+* Plan 2 versions of the feature with a version using native loops (while, for...) and a version in functional programming with the methods of the array object (foreach, filter, map, reduce). An "algorigram" is required for each of the proposals.
 
-&nbsp;
-## 2. Billed-app-FR-Front
-L'application frontend. C'est ici que se trouvent les fichiers *UX/UI* qui doivent être testés.
+* Implement both, using 2 different branches on Git so keep the separate code for each.
 
-&nbsp;
-Le processus d'installation est fourni par le Readme.
+* Test each algorythm's performance (Jsben.ch) for this kind of analysis and choose the most efficient.
+
+**A feature investigation sheet on the search algorithms must be provided.**
